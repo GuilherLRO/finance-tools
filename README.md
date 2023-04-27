@@ -16,7 +16,11 @@ This program requires you to get your expenses report from your banks (Currently
 
 Some improvements may include the calculation of some highlights of the data and the inclusion of other banks data format.
 
-### Tool 2 : Xp Investimens Portifolio 🧾
+### Tool 2 :  Investimens Transacions Extract 🧾
+
+This program requires you to get your report "Extrato" from Xp investimentos in order to extract the data to a dataframe and create reports and help understant the money fluxes of income and outcome and keep track of the monthly passive income.
+
+### Tool 3 : Xp Investimens Portifolio 🧾
 
 This program requires you to get your report "Posição" from Xp inventimentos in order to extract the data to a dataframe and create reports and help you rebalance you portfolio. It also uses a api call to update prices on tickers.
 
