@@ -12,7 +12,13 @@ This repository includes the following tools:
 
 ### Tool 1: Credit Card Expenses 🧾
 
-This program requires you to get your expensaes report from your banks (Currently using data from C6 Bank and Nubank), extracts and merge the data in order to inform monthly expenses.
+This program requires you to get your expenses report from your banks (Currently using data from C6 Bank and Nubank), extracts and merge the data in order to inform monthly expenses.
+
+Some improvements may include the calculation of some highlights of the data and the inclusion of other banks data format.
+
+### Tool 2 : Xp Investimens Portifolio 🧾
+
+This program requires you to get your report "Posição" from Xp inventimentos in order to extract the data to a dataframe and create reports and help you rebalance you portfolio. It also uses a api call to update prices on tickers.
 
 Some improvements may include the calculation of some highlights of the data and the inclusion of other banks data format.
 
